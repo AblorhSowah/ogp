@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
 /* Global CSS variables */
 :root {
   --spacing-company: 3rem;
@@ -19,7 +20,7 @@ small {
 /* Header */
 .hero {
   background-color: #394046;
-      background-image: linear-gradient(to bottom, rgba(37, 37, 40, 0),  #542727), url("../img/img-5.jpg");
+      background-image: linear-gradient(to bottom, rgba(37, 37, 40, 0),  #542727), url("../img/banner-1.JPG");
   background-position: center;
   background-size: cover;
 }
@@ -80,7 +81,7 @@ width: auto;
 }
 
 .intro-image{
-  margin-top: 150px;
+  margin-top: 89px;
 }
 
 .intro-image img{
