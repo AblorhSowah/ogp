@@ -24,10 +24,27 @@ small {
   color: var(--muted-color);
 }
 
+a{
+text-decoration: none !important;
+
+
+}
+
+ .second-nav{
+  color: gray;
+  font-size: 15px;
+ }
+
+ .brand-logoe{
+    width: auto;
+    height: 100px;
+    max-width: 100%;
+    max-height: 100%;
+ }
+
 /* Header */
 .hero {
-  background-color: #394046;
-      background-image: linear-gradient(to bottom, rgba(37, 37, 40, 0),  #542727), url("../img/banner-1.JPG");
+  background-color: #0c4975;
   background-position: center;
   background-size: cover;
 }
