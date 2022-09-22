@@ -20,6 +20,17 @@ p{
     line-height: 1.8;
 }
 
+.news-img{
+    width: 640px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.img-content{
+  display: flex;
+    justify-content: center;
+}
+
 small {
   color: var(--muted-color);
 }
